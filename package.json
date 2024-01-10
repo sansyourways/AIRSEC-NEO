@@ -1,0 +1,36 @@
+{
+  "name": "airsec-neo",
+  "version": "1.0.0",
+  "description": "Airsec-NEO is a telegram bot that uses Telegraf api for forwarding and other advanced commands",
+  "main": "AIRSEC-NEO-V5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sansyourways",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.15.0",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "natural": "^6.10.4",
+    "node": "^21.2.0",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^2.6.1",
+    "openweather-apis": "^4.5.0",
+    "telegraf": "^4.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansyourways/AIRSEC-NEO.git"
+  },
+  "keywords": [
+    "airsec-neo"
+  ],
+  "bugs": {
+    "url": "https://github.com/sansyourways/AIRSEC-NEO/issues"
+  },
+  "homepage": "https://github.com/sansyourways/AIRSEC-NEO#readme"
+}
