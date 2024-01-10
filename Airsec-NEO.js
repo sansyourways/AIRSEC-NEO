@@ -28,7 +28,7 @@ const resetTime = 1; // 1 AM
 const polls = {};
 
 // Set your OpenWeatherMap API key
-weather.setAPPID('0f2ca213721a95044dec9b37929f5fda');
+weather.setAPPID('YOUROPENWEATHER_TOKEN');
 
 // Array to store bot owner/admin IDs
 let admins = ['@sansyourways']; // Assuming the second ID is a numerical user ID
