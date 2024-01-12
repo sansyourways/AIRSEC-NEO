@@ -1,2 +1,3 @@
 node_modules/node/bin/node
 node_modules/@tensorflow/tfjs-node/deps/lib/libtensorflow.so.2.9.1
+.env
